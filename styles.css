@@ -11,18 +11,39 @@ h3 {}
 
 p {}
 
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
+p.code {
+    font-family: "Courier New";
 }
 
-li {
+ul.hor {
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+    width: 33%;
+}
+
+li.hor {
     float: left;
 }
 
-li a {
+li.hor a {
     display: block;
     padding: 7px;
+}
+
+ul.vert {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 10%;
+}
+
+li.vert {
+    float: left;
+}
+
+li.vert a {
+    display: block;
+    padding: 5px 7px;
 }
