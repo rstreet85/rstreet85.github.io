@@ -9,7 +9,22 @@
   year: Oct, 2025
   summary: Credential ID 42c5c4a32c744a9eae4bf35e4184d806
 
-- award: Most Likely To Succeed
-  organization: Springfield High School
-  year: 2004
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+- award: AWS Certified AI Practitioner
+  organization: Amazon Web Services
+  year: Sep, 2025
+  summary: Credential ID 2186dada-9b7d-472f-b826-b33daa6e75ea
+
+- award: AWS Certified Solutions Architect - Associate
+  organization: Amazon Web Services
+  year: Aug, 2020
+  summary: Credential ID JX8ZMW0CHFR11J9R
+
+  - award: Certified Associate Python Programmer [PCAP-31-03]
+  organization: OpenEDG Python Institute
+  year: Sep, 2025
+  summary: Credential ID Z3Mt.Ddeo.jjC4
+
+    - award: Open Water Diver
+  organization: PADI
+  year: May, 2011
+  summary: Credential ID 11050Z6019
