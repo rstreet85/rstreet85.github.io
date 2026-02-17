@@ -16,4 +16,4 @@
 - company: Louisiana State University in Shreveport
   position: Graduate Assistant
   duration: Aug, 2012  &mdash; Dec, 2012
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+  summary: <ul class="resume-item-list"><li>Coded the naive k-means clustering algorithm in Java using peer-reviewed publications for reference.</li><li>Coded normalization methods using different distance measurements (min-max, Manhattan/L1, Euclidean/L2, etc), used to compare the effects of normalization on the clustering outcome.</li><li>Coded the sum of square errors metric to validate the cluster performance, and ran validation on a subset of the UCI ML Repository collection.</li></ul>
