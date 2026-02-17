@@ -17,11 +17,11 @@ resume_title:                   "Sr. Software Engineer"
 resume_contact_email:           "robert.streetman@mailfence.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+resume_contact_telephone:       ""
+resume_contact_address:         ""
 
 resume_header_contact_info:     "robert.streetman@mailfence.com"
-display_header_contact_info:    "false"
+display_header_contact_info:    "true"
 
 resume_header_intro: "<p>I’m a senior software engineer focused on building data-driven and machine-learning-powered applications that solve real, messy problems. My background spans applied machine learning, scientific computing, and large-scale production systems. Early in my career, I implemented clustering algorithms, normalization techniques, and stochastic models in Java for academic and government research. That foundation gave me a strong appreciation for model behavior, data quality, and the tradeoffs between theory and real-world constraints. In the finance sector, I’ve worked on enterprise applications supporting critical business workflows, where I regularly diagnose complex failures across APIs, data pipelines, and application code. While this role has been operationally focused, it has sharpened my ability to reason about production systems, debug difficult issues, and design software that behaves predictably under pressure. I’m seeking a software engineering role centered on machine learning applications, where I can design, implement, and evolve systems that turn data into usable features and products.</p>"
 
@@ -36,7 +36,7 @@ resume_header_intro: "<p>I’m a senior software engineer focused on building da
 resume_section_experience:      true
 resume_section_education:       true
 resume_section_projects:        true
-resume_section_skills:          true
+resume_section_skills:          false
 resume_section_recognition:     true
 resume_section_links:           false
 resume_section_associations:    false
