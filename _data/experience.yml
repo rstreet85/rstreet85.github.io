@@ -3,13 +3,13 @@
 - company: S&P Global
   position: Sr. Software Engineer
   duration: May, 2018 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  summary: <ul class="resume-item-list"><li>Worked on a custom content-authoring and publishing platform used to transform analyst-authored documents into structured, web-published content at enterprise scale.</li><li>Specialized in diagnosing and resolving failures caused by highly variable, semi-structured inputs originating from Microsoft Word and Excel, including complex document markup, embedded objects, and inconsistent authoring patterns.</li><li>Performed deep analysis across application layers (document structure, REST APIs, transformation logic, and downstream services) to identify systemic patterns in content ingestion failures.</li><li>Designed and prototyped Python-based automation and validation scripts to classify problematic content patterns, reduce manual triage, and explore rule-based and data-driven approaches to preprocessing and normalization.</li></ul>
 
 # Director of Digital Stratgy
 - company: Colorado State University
   position: Research Associate
   duration: May, 2013 &mdash; Aug, 2017
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+  summary: <ul class="resume-item-list"><li>Coded new modules for a scientific model in Java, such as simulating soil moisture, water quality, and grassland growth.</li><li>Integrated a legacy Fortran model into a larger Java-based framework.</li><li>Coded Java web services to process GIS and weather data.</li></ul>
 
 
 # Communications Coordinator
