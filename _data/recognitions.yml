@@ -1,8 +1,13 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Young Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
+#- award: Outstanding Achievement
+#  organization: Springfield Young Professionals
+#  year: 2010, 2014
+#  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
+
+- award: AWS Certified Machine Learning Engineer - Associate
+  organization: Amazon Web Services
+  year: Oct, 2025
+  summary: Credential ID 42c5c4a32c744a9eae4bf35e4184d806
 
 - award: Most Likely To Succeed
   organization: Springfield High School
