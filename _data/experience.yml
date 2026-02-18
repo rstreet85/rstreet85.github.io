@@ -1,19 +1,16 @@
 # Jobs
-# VP of Global Communications
-- company: S&P Global
+
+- company: S&P Global Ratings
   position: Sr. Software Engineer
   duration: May, 2018 &mdash; Present
   summary: <ul class="resume-item-list"><li>Worked on a custom content-authoring and publishing platform used to transform analyst-authored documents into structured, web-published content at enterprise scale.</li><li>Specialized in diagnosing and resolving failures caused by highly variable, semi-structured inputs originating from Microsoft Word and Excel, including complex document markup, embedded objects, and inconsistent authoring patterns.</li><li>Performed deep analysis across application layers (document structure, REST APIs, transformation logic, and downstream services) to identify systemic patterns in content ingestion failures.</li><li>Designed and prototyped Python-based automation and validation scripts to classify problematic content patterns, reduce manual triage, and explore rule-based and data-driven approaches to preprocessing and normalization.</li></ul>
 
-# Director of Digital Stratgy
 - company: Colorado State University
   position: Research Associate
   duration: May, 2013 &mdash; Aug, 2017
   summary: <ul class="resume-item-list"><li>Coded new modules for a scientific model in Java, such as simulating soil moisture, water quality, and grassland growth.</li><li>Integrated a legacy Fortran model into a larger Java-based framework.</li><li>Coded Java web services to process GIS and weather data.</li></ul>
 
-
-# Communications Coordinator
 - company: Louisiana State University in Shreveport
   position: Graduate Assistant
   duration: Aug, 2012  &mdash; Dec, 2012
-  summary: <ul class="resume-item-list"><li>Coded the naive k-means clustering algorithm in Java using peer-reviewed publications for reference.</li><li>Coded normalization methods using different distance measurements (min-max, Manhattan/L1, Euclidean/L2, etc), used to compare the effects of normalization on the clustering outcome.</li><li>Coded the sum of square errors metric to validate the cluster performance, and ran validation on a subset of the UCI ML Repository collection.</li></ul>
+  summary: <ul class="resume-item-list"><li>Coded the naive k-means clustering algorithm in Java using peer-reviewed publications for reference.</li><li>Coded normalization methods using different distance measurements (min-max, Manhattan/L1, Euclidean/L2, etc), used to compare the effects of normalization on the clustering outcome.</li><li>Coded the sum of square errors metric to validate the clustering performance, and validated on a subset of the UCI ML Repository collection.</li></ul>
