@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "false"
 resume_name:                    "Robert Streetman"
-resume_title:                   "Sr. Software Engineer"
+resume_title:                   "Sr. Software Engineer &vert; Machine Learning Applications & MLOps &vert; Python, Cloud"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "robert.streetman@mailfence.com"
