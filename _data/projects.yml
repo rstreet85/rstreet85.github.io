@@ -5,3 +5,10 @@
   duration: Feb, 2026 &mdash; Present
   url: "https://github.com/rstreet85/pepper-growth-ml"
   description: Estimate pepper (Capsicum sp.) growth with simple models using local weather data.
+
+
+- project: Linking the Unified Plant Growth Model (UPGM) with the Agroecosystems-Watershed Model (AgES-W)
+  role: Developer
+  duration: 2015
+  url: "https://scisoc.confex.com/scisoc/2015am/meetingapp.cgi/Paper/94226"
+  description: Incorporated the Unified Plant Growth Model (UPGM) into the AgroEcoSystems-Watershed (AgES-W) model to provide existing sub-modules with advance plant growth modeling capabilities.
