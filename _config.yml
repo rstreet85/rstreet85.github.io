@@ -9,7 +9,7 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "false"
+resume_avatar:                  "true"
 resume_name:                    "Robert Streetman"
 resume_title:                   "Sr. Software Engineer &vert; Machine Learning Applications & MLOps &vert; Python, Cloud"
 
