@@ -23,7 +23,7 @@ resume_contact_address:         ""
 resume_header_contact_info:     "robert.streetman.engineer@gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>I’m a senior software engineer focused on building data-driven and machine-learning-powered applications that solve real, messy problems. My background spans applied machine learning, scientific computing, and large-scale production systems. Early in my career, I implemented clustering algorithms, normalization techniques, and stochastic models in Java for academic and government research. That foundation gave me a strong appreciation for model behavior, data quality, and the tradeoffs between theory and real-world constraints. In the finance sector, I’ve worked on enterprise applications supporting critical business workflows, where I regularly diagnose complex failures across APIs, data pipelines, and application code. While this role has been operationally focused, it has sharpened my ability to reason about production systems, debug difficult issues, and design software that behaves predictably under pressure. I’m seeking a software engineering role centered on machine learning applications, where I can design, implement, and evolve systems that turn data into usable features and products.</p>"
+resume_header_intro: "<p>Software engineer with DevOps & cloud background looking to pivot to full-time ML application and MLOps pipeline development.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -36,7 +36,7 @@ resume_looking_for_work:        "yes"
 resume_section_experience:      true
 resume_section_education:       true
 resume_section_projects:        true
-resume_section_skills:          false
+resume_section_skills:          true
 resume_section_recognition:     true
 resume_section_links:           false
 resume_section_associations:    false
